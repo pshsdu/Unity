@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4427700b6e65b214bbf8d71a2dd2bdcb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pebblesPrefab: {fileID: 1206993727909133696, guid: 9afef240c556bd64c9c3425ddadabcaf,
+      type: 3}
+  - dropPrefab: {fileID: 5460734250185595623, guid: 5ee91c505f82e064597024190dd6be5a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
